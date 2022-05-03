@@ -1,4 +1,4 @@
-# Extended-cancellation-algorithm
+# Extended-cancellation-algorithm for passive radar
 
 说明文档：（2022年05月03日）
 一、程序列表：
